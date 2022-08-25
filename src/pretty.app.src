@@ -1,0 +1,1 @@
+{application, pretty, [{description, "pretty - A not intrusive pretty print tool"}, {vsn, "1.0.0"}, {modules, [pretty]}, {registered, []}, {applications, [kernel, stdlib]}]}.
