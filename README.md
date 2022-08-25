@@ -14,6 +14,6 @@
 ```erlang
 %% setup
 code:ensure_loaded(pretty).
-%% print
-io:format("~p ~tp~n", [hello, world]).
+%% type
+[0, true, undefined, a, [b], {c}, #{d => e}, <<"f">>].
 ```
